@@ -19,6 +19,7 @@ Will there be privileged operations requiring integration with vaults (e.g., Cyb
 
 https://infotechys.com/install-ansible-tower-on-rhel-9/
 https://redhatgov.io/workshops/ansible_automation/exercise2.0/
+https://keithtenzer.com/ansible/ansible-tower-cluster-configuration-guide/
 
 #####################
 
