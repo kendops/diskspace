@@ -66,7 +66,7 @@ By gathering this information, you can design a tailored, efficient, and secure 
 
 
 
-
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://docs.ansible.com/ansible-tower/3.8.0/pdf/AnsibleTowerQuickInstall.pdf
 
 
 You said:
